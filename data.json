@@ -1,0 +1,128 @@
+[
+  {
+    "title": "Work",
+    "banner": "orange-banner",
+    "timeframes": {
+      "daily": {
+        "current": 5,
+        "previous": 7,
+        "text": "Yesterday"
+      },
+      "weekly": {
+        "current": 32,
+        "previous": 36,
+        "text": "Last week"
+      },
+      "monthly": {
+        "current": 103,
+        "previous": 128,
+        "text": "Last monthly"
+      }
+    }
+  },
+  {
+    "title": "Play",
+    "banner": "blue-banner",
+    "timeframes": {
+      "daily": {
+        "current": 1,
+        "previous": 2,
+        "text": "Yesterday"
+      },
+      "weekly": {
+        "current": 10,
+        "previous": 8,
+        "text": "Last week"
+      },
+      "monthly": {
+        "current": 23,
+        "previous": 29,
+        "text": "Last monthly"
+      }
+    }
+  },
+  {
+    "title": "Study",
+    "banner": "red-banner",
+    "timeframes": {
+      "daily": {
+        "current": 0,
+        "previous": 1,
+        "text": "Yesterday"
+      },
+      "weekly": {
+        "current": 4,
+        "previous": 7,
+        "text": "Last week"
+      },
+      "monthly": {
+        "current": 13,
+        "previous": 19,
+        "text": "Last monthly"
+      }
+    }
+  },
+  {
+    "title": "Exercise",
+    "banner": "green-banner",
+    "timeframes": {
+      "daily": {
+        "current": 1,
+        "previous": 1,
+        "text": "Yesterday"
+      },
+      "weekly": {
+        "current": 4,
+        "previous": 5,
+        "text": "Last week"
+      },
+      "monthly": {
+        "current": 11,
+        "previous": 18,
+        "text": "Last monthly"
+      }
+    }
+  },
+  {
+    "title": "Social",
+    "banner": "purple-banner",
+    "timeframes": {
+      "daily": {
+        "current": 1,
+        "previous": 3,
+        "text": "Yesterday"
+      },
+      "weekly": {
+        "current": 5,
+        "previous": 10,
+        "text": "Last week"
+      },
+      "monthly": {
+        "current": 21,
+        "previous": 23,
+        "text": "Last monthly"
+      }
+    }
+  },
+  {
+    "title": "Self Care",
+    "banner": "yellow-banner",
+    "timeframes": {
+      "daily": {
+        "current": 0,
+        "previous": 1,
+        "text": "Yesterday"
+      },
+      "weekly": {
+        "current": 2,
+        "previous": 2,
+        "text": "Last week"
+      },
+      "monthly": {
+        "current": 7,
+        "previous": 11,
+        "text": "Last monthly"
+      }
+    }
+  }
+]
