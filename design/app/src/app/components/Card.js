@@ -4,7 +4,6 @@ import ellipsis from "../../../../../images/icon-ellipsis.svg";
 
 export default function Card({ item, navPick }) {
   const timeframeData = item.timeframes[navPick];
-  console.log("timeframe: ", timeframeData);
   return (
     <div className="category-card">
       <div className="category-card-banner" id={item.banner}></div>
