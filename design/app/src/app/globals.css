@@ -109,11 +109,11 @@ body {
       justify-content: space-between;
       
     }
-    #hours{
+    .hours{
       font-size: 1.5rem;
       font-weight: 300;
     }
-    #lastweek{
+    .lastweek{
       font-weight: 300;
       font-size: .8rem;
       color: hsl(236, 100%, 87%);

@@ -13,8 +13,8 @@ export default function Card({ item, navPick }) {
           <Image className="ellipsis" src={ellipsis} alt="ellipsis"></Image>
         </div>
         <div className="category-card-stats-bottom">
-          <p id="hours">{timeframeData.current}hrs</p>
-          <p id="lastweek">
+          <p className="hours">{timeframeData.current}hrs</p>
+          <p className="lastweek">
             {timeframeData.text}- {timeframeData.previous}hrs
           </p>
         </div>
