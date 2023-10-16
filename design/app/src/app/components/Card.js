@@ -3,9 +3,6 @@ import Image from "next/image";
 import ellipsis from "../../../../../images/icon-ellipsis.svg";
 
 export default function Card({ item, navPick }) {
-  console.log(navPick);
-  console.log(item);
-
   const timeframeData = item.timeframes[navPick];
   console.log("timeframe: ", timeframeData);
   return (
